@@ -1,0 +1,1302 @@
+[
+ {
+  "id": "caravanafurniture-com-products-white-finish-platform-bed-w-b-3dc50c",
+  "section": "shop-picked",
+  "section_title": "What we already picked",
+  "vendor": "Caravana Furniture",
+  "name": "White Finish Platform Bed w/ Built-in Lighting (Coaster Jessica 202990KE), King",
+  "price": "$740",
+  "dims": "88 \u00d7 88.75 \u00d7 43.25 in",
+  "note": "Same bed is $838.88 at Home Depot and $939 at Coleman, so Caravana is the cheapest and includes white-glove delivery. Foot of bed to den wall about 3'5\". Head wall has 71\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/white-finish-platform-bed-w-built-in-lighting?variant=52980320436408",
+  "planner": {
+   "n": "White Finish Platform Bed w/ Built-in Lighting (Coaster Jessica 202990KE), King",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#f2f2ef"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-mid-century-modern-48-tv-stan-752d43",
+  "section": "shop-picked",
+  "section_title": "What we already picked",
+  "vendor": "Caravana Furniture",
+  "name": "Mid-Century Modern 48\" TV Stand",
+  "price": "$280",
+  "dims": "48 \u00d7 13.5 \u00d7 17 in",
+  "note": "Shallowest console they sell. Open adjustable shelves for the PS5 and Switch, cable holes. Leaves about 26\" of walkway at the foot of the bed.",
+  "url": "https://www.caravanafurniture.com/products/mid-century-modern-48-tv-stand",
+  "planner": {
+   "n": "Mid-Century Modern 48\" TV Stand",
+   "k": "storage",
+   "w": 48,
+   "d": 13.5,
+   "h": 17,
+   "c": "#8b6b4e"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-46-walnut-tv-stand-24d022",
+  "section": "shop-picked",
+  "section_title": "What we already picked",
+  "vendor": "Caravana Furniture",
+  "name": "46\" Walnut TV Stand, slatted",
+  "price": "$349",
+  "dims": "46 \u00d7 15.5 \u00d7 17.5 in",
+  "note": "Drop-down storage panel hides the consoles. 2\" deeper than the 48\" stand, about 24\" of walkway.",
+  "url": "https://www.caravanafurniture.com/products/46-walnut-tv-stand",
+  "planner": {
+   "n": "46\" Walnut TV Stand, slatted",
+   "k": "storage",
+   "w": 46,
+   "d": 15.5,
+   "h": 17.5,
+   "c": "#7a5a40"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-rectangular-wood-sofa-console-78e230",
+  "section": "shop-picked",
+  "section_title": "What we already picked",
+  "vendor": "Caravana Furniture",
+  "name": "Rectangular Wood Sofa Console Table",
+  "price": "$565",
+  "dims": "46 \u00d7 14 \u00d7 30 in",
+  "note": "Open frame, no shelf, so the PS5 would sit on top next to the TV. Looks better, works worse.",
+  "url": "https://www.caravanafurniture.com/products/rectangular-wood-sofa-console-table",
+  "planner": {
+   "n": "Rectangular Wood Sofa Console Table",
+   "k": "desk",
+   "w": 46,
+   "d": 14,
+   "h": 30,
+   "c": "#b08a63"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-coaster-2-drawer-white-jessica-nightstand-20-91e6c5",
+  "section": "shop-ns",
+  "section_title": "Nightstands that match the bed",
+  "vendor": "Home Depot",
+  "name": "Coaster Jessica 2-drawer Nightstand 202992, Snow White",
+  "price": "$199.36",
+  "dims": "26 \u00d7 15 \u00d7 23 in",
+  "note": "The matching piece from the same collection as the bed. At 26\" wide it needs the bed shifted about 2\" toward the closet to fit on the window side; the closet side still clears the door. Caravana carries Coaster, so ask them to add it to the order.",
+  "url": "https://www.homedepot.com/p/Coaster-2-Drawer-White-Jessica-Nightstand-202992/310344005",
+  "planner": {
+   "n": "Coaster Jessica 2-drawer Nightstand 202992, Snow White",
+   "k": "storage",
+   "w": 26,
+   "d": 15,
+   "h": 23,
+   "c": "#f2f2ef"
+  },
+  "has_image": true
+ },
+ {
+  "id": "colemanfurniture-com-jessica-white-nightstand-htm-533134",
+  "section": "shop-ns",
+  "section_title": "Nightstands that match the bed",
+  "vendor": "Coleman Furniture",
+  "name": "Coaster Jessica Nightstand 202992 (same piece)",
+  "price": "$449",
+  "dims": "26 \u00d7 15 \u00d7 23 in",
+  "note": "Same nightstand, more than double Home Depot's price, but Coleman offers in-home delivery.",
+  "url": "https://colemanfurniture.com/jessica-white-nightstand.htm",
+  "planner": {
+   "n": "Coaster Jessica Nightstand 202992 (same piece)",
+   "k": "storage",
+   "w": 26,
+   "d": 15,
+   "h": 23,
+   "c": "#f2f2ef"
+  },
+  "has_image": false
+ },
+ {
+  "id": "caravanafurniture-com-products-mid-century-style-nightstand-9c789c",
+  "section": "shop-ns",
+  "section_title": "Nightstands that match the bed",
+  "vendor": "Caravana Furniture",
+  "name": "Mid-Century Style Nightstand, White",
+  "price": "$263",
+  "dims": "24 \u00d7 17 \u00d7 24 in",
+  "note": "White option in stock locally. 24\" wide fits the window side without moving the bed. Not the Jessica profile, but the color matches.",
+  "url": "https://www.caravanafurniture.com/products/mid-century-style-nightstand",
+  "planner": {
+   "n": "Mid-Century Style Nightstand, White",
+   "k": "storage",
+   "w": 24,
+   "d": 17,
+   "h": 24,
+   "c": "#f4f4f2"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-whitewash-oak-contemporary-ni-716c82",
+  "section": "shop-ns",
+  "section_title": "Nightstands that match the bed",
+  "vendor": "Caravana Furniture",
+  "name": "Whitewash Oak Contemporary Nightstand",
+  "price": "$549",
+  "dims": "26 \u00d7 19 \u00d7 24 in",
+  "note": "Whitewash rather than white. Same 26\" width caveat as the Jessica.",
+  "url": "https://www.caravanafurniture.com/products/whitewash-oak-contemporary-nightstand",
+  "planner": {
+   "n": "Whitewash Oak Contemporary Nightstand",
+   "k": "storage",
+   "w": 26,
+   "d": 19,
+   "h": 24,
+   "c": "#e4ddd0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-mid-century-inspired-platform-77c56e",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "Mid-Century Inspired Platform Bed, Oak, King",
+  "price": "$765",
+  "dims": "80 \u00d7 86.5 \u00d7 48 in",
+  "note": "8\" narrower than the Jessica, so a full-size nightstand fits on both sides and the closet door clears easily. Foot of bed to den wall about 3'7\". Head wall has 79\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/mid-century-inspired-platform-bed",
+  "planner": {
+   "n": "Mid-Century Inspired Platform Bed, Oak, King",
+   "k": "bed",
+   "w": 80,
+   "d": 86.5,
+   "h": 48,
+   "c": "#c9a877"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-mid-century-modern-platform-b-514495",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "Mid-Century Modern Platform Bed, Black, King",
+  "price": "$765",
+  "dims": "80 \u00d7 86.5 \u00d7 48 in",
+  "note": "Same frame in black. Foot of bed to den wall about 3'7\". Head wall has 79\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/mid-century-modern-platform-bed",
+  "planner": {
+   "n": "Mid-Century Modern Platform Bed, Black, King",
+   "k": "bed",
+   "w": 80,
+   "d": 86.5,
+   "h": 48,
+   "c": "#2b2b2b"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-cappuccino-finish-platform-be-00ad35",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "Cappuccino Finish Platform Bed w/ Built-in Lighting (Jessica, cappuccino), King",
+  "price": "$878",
+  "dims": "88 \u00d7 89 \u00d7 43 in",
+  "note": "The same Jessica design in dark cappuccino. Same footprint and the same fit as the white one.",
+  "url": "https://www.caravanafurniture.com/products/cappuccino-finish-platform-bed-w-built-in-lighting",
+  "planner": {
+   "n": "Cappuccino Finish Platform Bed w/ Built-in Lighting (Jessica, cappuccino), King",
+   "k": "bed",
+   "w": 88,
+   "d": 89,
+   "h": 43,
+   "c": "#5a4034"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-cappuccino-finish-bed-frame-w-d41efb",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "Cappuccino Bed Frame w/ Bookcase Headboard, King",
+  "price": "$799",
+  "dims": "81 \u00d7 89 \u00d7 47 in",
+  "note": "Bookcase headboard gives you nightstand storage without nightstands. Foot of bed to den wall about 3'5\". Head wall has 78\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/cappuccino-finish-bed-frame-w-bookcase-headboard",
+  "planner": {
+   "n": "Cappuccino Bed Frame w/ Bookcase Headboard, King",
+   "k": "bed",
+   "w": 81,
+   "d": 89,
+   "h": 47,
+   "c": "#5a4034"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-upholstered-cream-boucle-bed--2ef65e",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "Upholstered Cream Boucl\u00e9 Bed Frame, Eastern King",
+  "price": "$875",
+  "dims": "81.5 \u00d7 89 \u00d7 52.5 in",
+  "note": "Soft, tall headboard. No lighting. Foot of bed to den wall about 3'5\". Head wall has 77\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/upholstered-cream-boucle-bed-frame",
+  "planner": {
+   "n": "Upholstered Cream Boucl\u00e9 Bed Frame, Eastern King",
+   "k": "bed",
+   "w": 81.5,
+   "d": 89,
+   "h": 52.5,
+   "c": "#efe9dd"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-california-king-white-faux-le-7baf3b",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Caravana Furniture",
+  "name": "California King White Faux Leather LED Panel Bed",
+  "price": "$620 (reg. $899)",
+  "dims": "75.5 \u00d7 91.5 \u00d7 48.5 in",
+  "note": "Closest look to the Jessica for less money, but it is a California King: longer and narrower, and it needs a 72 \u00d7 84 mattress. Foot of bed to den wall about 3'2\". Head wall has 83\" to spare for nightstands.",
+  "url": "https://www.caravanafurniture.com/products/california-king-white-faux-leather-led-panel-bed",
+  "planner": {
+   "n": "California King White Faux Leather LED Panel Bed",
+   "k": "bed",
+   "w": 75.5,
+   "d": 91.5,
+   "h": 48.5,
+   "c": "#f2f2ef"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-coaster-jessica-white-wood-frame-king-panel--84ab82",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Home Depot",
+  "name": "Coaster Jessica King Platform Bed 202990KE",
+  "price": "$838.88",
+  "dims": "88 \u00d7 88.75 \u00d7 43.25 in",
+  "note": "Price check on the same bed. Shipped, not white-glove.",
+  "url": "https://www.homedepot.com/p/Coaster-Jessica-White-Wood-Frame-King-Panel-Bed-with-LED-Lights-202990KE/337787088",
+  "planner": {
+   "n": "Coaster Jessica King Platform Bed 202990KE",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#f2f2ef"
+  },
+  "has_image": true
+ },
+ {
+  "id": "colemanfurniture-com-jessica-king-panel-bed-htm-47e104",
+  "section": "shop-beds",
+  "section_title": "King bed frames under $1,000",
+  "vendor": "Coleman Furniture",
+  "name": "Coaster Jessica King Platform Bed 202990KE",
+  "price": "$939",
+  "dims": "88 \u00d7 88.75 \u00d7 43.25 in",
+  "note": "Price check on the same bed. In-home delivery available, but $199 more than Caravana.",
+  "url": "https://colemanfurniture.com/jessica-king-panel-bed.htm",
+  "planner": {
+   "n": "Coaster Jessica King Platform Bed 202990KE",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#f2f2ef"
+  },
+  "has_image": false
+ },
+ {
+  "id": "caravanafurniture-com-products-reversible-storage-chaise-sec-539b06",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Reversible Storage Chaise Sectional Sofa",
+  "price": "$899.40 (reg. $1,499)",
+  "dims": "90.25 \u00d7 64.25 \u00d7 35 in",
+  "note": "Compact, chaise flips to either side, storage under the chaise. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 8'3\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/reversible-storage-chaise-sectional-sofa",
+  "planner": {
+   "n": "Reversible Storage Chaise Sectional Sofa",
+   "k": "sectional",
+   "w": 90.25,
+   "d": 64.25,
+   "h": 35,
+   "c": "#8a8f96"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-right-facing-chaise-sectional-76e24b",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Modern Neutral Chenille Sectional (Gray or Black)",
+  "price": "$1,385",
+  "dims": "119.25 \u00d7 79.5 \u00d7 35.5 in",
+  "note": "Right-facing chaise. Also in Camel, Amber and Orange at the same price. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 5'10\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/right-facing-chaise-sectional-sofa-neutral-chenille-fabric",
+  "planner": {
+   "n": "Modern Neutral Chenille Sectional (Gray or Black)",
+   "k": "sectional",
+   "w": 119.25,
+   "d": 79.5,
+   "h": 35.5,
+   "c": "#8f8f8a"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-right-facing-chaise-sectional-a7a3a3",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Modern Warm Chenille Sectional (Camel or Amber)",
+  "price": "$1,385",
+  "dims": "119.25 \u00d7 79.5 \u00d7 35.5 in",
+  "note": "Same frame as the neutral version in warm tones. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 5'10\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/right-facing-chaise-sectional-sofa-warm-fabric",
+  "planner": {
+   "n": "Modern Warm Chenille Sectional (Camel or Amber)",
+   "k": "sectional",
+   "w": 119.25,
+   "d": 79.5,
+   "h": 35.5,
+   "c": "#b8884f"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-2-piece-sectional-with-right--9e649e",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "2-Piece Sectional with Right Chaise, adjustable seat depth",
+  "price": "$1,398",
+  "dims": "125 \u00d7 66 to 77 \u00d7 35.5 in",
+  "note": "Backs slide to change seat depth. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 5'5\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/2-piece-sectional-with-right-chaise-and-dual-position-backs-for-adjustable-seat-depth",
+  "planner": {
+   "n": "2-Piece Sectional with Right Chaise, adjustable seat depth",
+   "k": "sectional",
+   "w": 125,
+   "d": 77,
+   "h": 35.5,
+   "c": "#7d7a74"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-modern-sand-upholstered-secti-99e601",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Modern Sand Upholstered Sectional Sofa",
+  "price": "$1,675",
+  "dims": "104 \u00d7 66.5 \u00d7 36.5 in",
+  "note": "Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 7'2\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/modern-sand-upholstered-sectional-sofa",
+  "planner": {
+   "n": "Modern Sand Upholstered Sectional Sofa",
+   "k": "sectional",
+   "w": 104,
+   "d": 66.5,
+   "h": 36.5,
+   "c": "#cdbfa6"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-oversized-reversible-chaise-c-73e6e3",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Oversized Reversible Chaise Corduroy Sectional (Beige or Gray)",
+  "price": "$1,689",
+  "dims": "105 \u00d7 70.5 \u00d7 34 in",
+  "note": "Deep seats, reversible chaise. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 7'1\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/oversized-reversible-chaise-corduroy-sectional-sofa",
+  "planner": {
+   "n": "Oversized Reversible Chaise Corduroy Sectional (Beige or Gray)",
+   "k": "sectional",
+   "w": 105,
+   "d": 70.5,
+   "h": 34,
+   "c": "#c3b59b"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-feather-foam-seating-modular--58be3c",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Feather & Foam Seating Modular Sectional",
+  "price": "$1,780",
+  "dims": "120 \u00d7 82 \u00d7 33 in",
+  "note": "Modular, so the chaise can move to whichever side faces the window. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 5'10\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/feather-foam-seating-modular-sectional",
+  "planner": {
+   "n": "Feather & Foam Seating Modular Sectional",
+   "k": "sectional",
+   "w": 120,
+   "d": 82,
+   "h": 33,
+   "c": "#d9d2c4"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-upholster-sectional-sofa-5e4af1",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Modern Upholstered Chaise Sectional (Ivory or Light Gray)",
+  "price": "$1,860",
+  "dims": "110 \u00d7 59.5 \u00d7 33.5 in",
+  "note": "Left or right chaise. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 6'8\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/upholster-sectional-sofa",
+  "planner": {
+   "n": "Modern Upholstered Chaise Sectional (Ivory or Light Gray)",
+   "k": "sectional",
+   "w": 110,
+   "d": 59.5,
+   "h": 33.5,
+   "c": "#e8e3d8"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-ivory-modular-sectional-sofa--5c2e3a",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Ivory Modular Sectional Sofa with Chaise, 2-piece",
+  "price": "$1,869",
+  "dims": "109.5 \u00d7 68.5 \u00d7 30 in",
+  "note": "Low back keeps the window view open. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 6'8\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/ivory-modular-sectional-sofa-with-chaise",
+  "planner": {
+   "n": "Ivory Modular Sectional Sofa with Chaise, 2-piece",
+   "k": "sectional",
+   "w": 109.5,
+   "d": 68.5,
+   "h": 30,
+   "c": "#ece6da"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-mid-century-modern-chenille-s-a1cac3",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Mid-Century Modern Chenille Sectional (Taupe or Olive)",
+  "price": "$1,899",
+  "dims": "114 \u00d7 86.5 \u00d7 34.3 in",
+  "note": "Left or right chaise. Deepest chaise of the group. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 6'4\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/mid-century-modern-chenille-sectional",
+  "planner": {
+   "n": "Mid-Century Modern Chenille Sectional (Taupe or Olive)",
+   "k": "sectional",
+   "w": 114,
+   "d": 86.5,
+   "h": 34.3,
+   "c": "#a89a86"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-2pc-right-facing-cream-boucle-e8dc5c",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "2PC Cream Boucl\u00e9 Sectional",
+  "price": "$1,965",
+  "dims": "119.5 \u00d7 59.5 \u00d7 27.5 in",
+  "note": "Matches the boucl\u00e9 bed. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 5'10\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/2pc-right-facing-cream-boucle-sectional",
+  "planner": {
+   "n": "2PC Cream Boucl\u00e9 Sectional",
+   "k": "sectional",
+   "w": 119.5,
+   "d": 59.5,
+   "h": 27.5,
+   "c": "#efe8dc"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-brown-reversible-chaise-secti-2f3e48",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Caravana Furniture",
+  "name": "Brown Reversible Chaise Sectional with Ottoman (clearance)",
+  "price": "$799, final sale",
+  "dims": "104 \u00d7 84 \u00d7 35 in",
+  "note": "Floor model or discontinued, no 7-day trial. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 7'2\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.caravanafurniture.com/products/brown-reversible-chaise-sectional-sofa-with-ottoman",
+  "planner": {
+   "n": "Brown Reversible Chaise Sectional with Ottoman (clearance)",
+   "k": "sectional",
+   "w": 104,
+   "d": 84,
+   "h": 35,
+   "c": "#6b4f3a"
+  },
+  "has_image": true
+ },
+ {
+  "id": "article-com-product-27064-sven-100-tufted-right-sectional-bi-6d51a0",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Article",
+  "name": "Sven 100\" Tufted Right Sectional, Biscuit Cream",
+  "price": "$1,299 (reg. $1,999)",
+  "dims": "100 \u00d7 67 \u00d7 34 in",
+  "note": "Walnut legs, mid-century look. Article offers room-of-choice delivery in LA. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 7'6\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.article.com/product/27064/sven-100-tufted-right-sectional-biscuit-cream",
+  "planner": {
+   "n": "Sven 100\" Tufted Right Sectional, Biscuit Cream",
+   "k": "sectional",
+   "w": 100,
+   "d": 67,
+   "h": 34,
+   "c": "#e9dcc3"
+  },
+  "has_image": true
+ },
+ {
+  "id": "livingspaces-com-pdp-alicia-greige-106-inch-chenille-2-piece-286aa3",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Living Spaces",
+  "name": "Alicia Greige 106\" Chenille 2-Piece Sectional, right chaise",
+  "price": "$1,295",
+  "dims": "106 in wide",
+  "note": "Depth not published in the listing; 66\" assumed for the planner. Living Spaces delivers with setup for a fee.",
+  "url": "https://www.livingspaces.com/pdp-alicia-greige-106-inch-chenille-2-piece-sectional-with-right-arm-facing-chaise-373214",
+  "planner": {
+   "n": "Alicia Greige 106\" Chenille 2-Piece Sectional, right chaise",
+   "k": "sectional",
+   "w": 106,
+   "d": 66,
+   "h": 36,
+   "c": "#b5ada2"
+  },
+  "has_image": false
+ },
+ {
+  "id": "livingspaces-com-pdp-anacapa-cement-grey-109-inch-2-piece-se-8c7eeb",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Living Spaces",
+  "name": "Anacapa Cement Grey 109\" 2-Piece Sectional, left chaise",
+  "price": "$1,475",
+  "dims": "109 \u00d7 67 \u00d7 36 in",
+  "note": "Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 6'9\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.livingspaces.com/pdp-anacapa-cement-grey-109-inch-2-piece-sectional-with-left-arm-facing-chaise-374081",
+  "planner": {
+   "n": "Anacapa Cement Grey 109\" 2-Piece Sectional, left chaise",
+   "k": "sectional",
+   "w": 109,
+   "d": 67,
+   "h": 36,
+   "c": "#9a9a96"
+  },
+  "has_image": false
+ },
+ {
+  "id": "livingspaces-com-pdp-rincon-black-2-piece-sectional-with-rig-80ef1c",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Living Spaces",
+  "name": "Rincon Black 2-Piece Sectional with Chaise and Ottoman",
+  "price": "$750",
+  "dims": "90 \u00d7 60 \u00d7 37 in",
+  "note": "Budget pick. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 8'4\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.livingspaces.com/pdp-rincon-black-2-piece-sectional-with-right-arm-facing-loveseat-left-arm-facing-chaise-and-ottoman-384061",
+  "planner": {
+   "n": "Rincon Black 2-Piece Sectional with Chaise and Ottoman",
+   "k": "sectional",
+   "w": 90,
+   "d": 60,
+   "h": 37,
+   "c": "#2e2e2e"
+  },
+  "has_image": false
+ },
+ {
+  "id": "mybobs-com-furniture-living-room-sectionals-p-20086159-661919",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Bob's Discount Furniture",
+  "name": "Dylan Slate 112\" 2-Piece Left Chaise Sectional",
+  "price": "$999",
+  "dims": "112 in wide",
+  "note": "Depth not in the listing; 70\" assumed. Bob's Long Beach store is on Carson Blvd and delivers with setup.",
+  "url": "https://www.mybobs.com/furniture/living-room/sectionals/p/20086159",
+  "planner": {
+   "n": "Dylan Slate 112\" 2-Piece Left Chaise Sectional",
+   "k": "sectional",
+   "w": 112,
+   "d": 70,
+   "h": 36,
+   "c": "#6f7f8c"
+  },
+  "has_image": false
+ },
+ {
+  "id": "mybobs-com-furniture-living-room-sectionals-p-20089870-9b9396",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "Bob's Discount Furniture",
+  "name": "Playday Navy 93\" Pop-Up Sleeper Chaise Sectional",
+  "price": "$799",
+  "dims": "92.5 \u00d7 59 \u00d7 37 in",
+  "note": "Sleeper for guests. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 8'1\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.mybobs.com/furniture/living-room/sectionals/p/20089870",
+  "planner": {
+   "n": "Playday Navy 93\" Pop-Up Sleeper Chaise Sectional",
+   "k": "sectional",
+   "w": 92.5,
+   "d": 59,
+   "h": 37,
+   "c": "#2f3f66"
+  },
+  "has_image": false
+ },
+ {
+  "id": "ikea-com-us-en-p-mannarp-sectional-4-seat-with-chaise-saxema-c37a5a",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "IKEA Carson",
+  "name": "MANNARP Sectional, 4-seat with chaise, Saxemara gray-beige",
+  "price": "$799",
+  "dims": "118 \u00d7 37 in, chaise 63 in deep",
+  "note": "Cheapest full-size option. Delivery is separate and assembly is yours or TaskRabbit's. Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 6'0\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.ikea.com/us/en/p/mannarp-sectional-4-seat-with-chaise-saxemara-gray-beige-s89619183/",
+  "planner": {
+   "n": "MANNARP Sectional, 4-seat with chaise, Saxemara gray-beige",
+   "k": "sectional",
+   "w": 118,
+   "d": 63,
+   "h": 33,
+   "c": "#bdb3a4"
+  },
+  "has_image": false
+ },
+ {
+  "id": "ikea-com-us-en-p-uppland-sofa-with-chaise-karlshov-gray-beig-315e25",
+  "section": "shop-sect",
+  "section_title": "L-shaped sectionals under $2,000",
+  "vendor": "IKEA Carson",
+  "name": "UPPLAND Sofa with Chaise, Karlshov gray-beige",
+  "price": "$1,349",
+  "dims": "101.6 \u00d7 64.6 \u00d7 36.25 in",
+  "note": "Living zone beyond the island is about 15'10\" wide and 17'6\" deep, so this fits with 7'4\" left beside it. Put the chaise toward the window.",
+  "url": "https://www.ikea.com/us/en/p/uppland-sofa-with-chaise-karlshov-gray-beige-s29488627/",
+  "planner": {
+   "n": "UPPLAND Sofa with Chaise, Karlshov gray-beige",
+   "k": "sectional",
+   "w": 101.6,
+   "d": 64.6,
+   "h": 36.25,
+   "c": "#b9b0a3"
+  },
+  "has_image": false
+ },
+ {
+  "id": "secretlab-co-products-titan-evo-24-r-nn-0107-954114",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Secretlab",
+  "name": "Secretlab TITAN Evo, Regular, NanoGen Pure White",
+  "price": "$749",
+  "dims": "about 27 \u00d7 27 in footprint, 51 in tall",
+  "note": "The white one, to go with white monitors and the white bed. Regular size fits most people 5'7\" to 6'2\". NanoGen is their newest leatherette.",
+  "url": "https://secretlab.co/products/titan-evo-24-r-nn-0107",
+  "planner": {
+   "n": "Secretlab TITAN Evo, Regular, NanoGen Pure White",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "secretlab-co-products-titan-evo-24-r-pu-0107-76ea83",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Secretlab",
+  "name": "Secretlab TITAN Evo, Regular, NEO Hybrid Leatherette (black)",
+  "price": "$529",
+  "dims": "about 27 \u00d7 27 in footprint, 51 in tall",
+  "note": "Same chair, standard leatherette, $220 less. SoftWeave fabric is $549. XL is $50 more if you are over 6'2\".",
+  "url": "https://secretlab.co/products/titan-evo-24-r-pu-0107",
+  "planner": {
+   "n": "Secretlab TITAN Evo, Regular, NEO Hybrid Leatherette (black)",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#2b2b2b"
+  },
+  "has_image": true
+ },
+ {
+  "id": "secretlab-co-products-secretlab-magnus-pro-box-1-white-1a2896",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Secretlab",
+  "name": "Secretlab MAGNUS Pro sit-to-stand desk, 1.5 m, White",
+  "price": "$899 (desk top $450 + legs $449)",
+  "dims": "59.1 \u00d7 27.6 in, 25.6 to 49.2 in high",
+  "note": "Sold as two boxes on their US store. Full metal, 265 lb lift, magnetic cable channel. 59\" holds two 27\" monitors on arms with about 11\" left for a laptop stand. Matches the chair in white.",
+  "url": "https://secretlab.co/products/secretlab-magnus-pro-box-1-white",
+  "planner": {
+   "n": "Secretlab MAGNUS Pro sit-to-stand desk, 1.5 m, White",
+   "k": "desk",
+   "w": 59.1,
+   "d": 27.6,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "secretlab-co-products-secretlab-magnus-pro-xl-box-1-white-ac172d",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Secretlab",
+  "name": "Secretlab MAGNUS Pro XL sit-to-stand desk, 1.7 m, White",
+  "price": "$1,049 (desk top $550 + legs $499)",
+  "dims": "67 \u00d7 31.5 in, 25.6 to 49.2 in high",
+  "note": "The one for two monitors plus four laptops. 8\" wider and 4\" deeper. Fits the den's 12 foot wall with room to walk past; the planner's suggested layout uses it.",
+  "url": "https://secretlab.co/products/secretlab-magnus-pro-xl-box-1-white",
+  "planner": {
+   "n": "Secretlab MAGNUS Pro XL sit-to-stand desk, 1.7 m, White",
+   "k": "desk",
+   "w": 67,
+   "d": 31.5,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "staples-com-flexispot-e7-pro-60-w-adjustable-standing-desk-b-aaf54e",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Staples",
+  "name": "FlexiSpot E7 Pro, 60 \u00d7 30, bamboo top, white frame",
+  "price": "$749.99",
+  "dims": "60 \u00d7 30 in",
+  "note": "The usual non-Secretlab pick. Same footprint as the standard Magnus, cheaper, wood top. Uplift V2 60 \u00d7 30 runs about $600 to $900 depending on top; its site blocks price checks from here.",
+  "url": "https://www.staples.com/flexispot-e7-pro-60-w-adjustable-standing-desk-bamboo-white-e7wpro6030-lbzb/product_24588912",
+  "planner": {
+   "n": "FlexiSpot E7 Pro, 60 \u00d7 30, bamboo top, white frame",
+   "k": "desk",
+   "w": 60,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  "has_image": false
+ },
+ {
+  "id": "staples-com-flexispot-e7-76-w-l-shaped-adjustable-standing-d-ef310e",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Staples",
+  "name": "FlexiSpot E7L L-shaped standing desk, 76\" \u00d7 24\" + 55\" \u00d7 28\", white",
+  "price": "$899.99 white at Staples; $799.99 white at Office Depot; $699.99 black/white at Quill",
+  "dims": "76 \u00d7 24 long side, 55 \u00d7 28 return; reversible",
+  "note": "The pick. Return is reversible, so build it with the return on the right toward the glass. In the den the corner sits about 8\" from the glass at the return's far end; the planner's \"L-desk in the den\" layout now uses these exact pieces. Three legs, 3 motors, 330 lb lift.",
+  "url": "https://www.staples.com/flexispot-e7-76-w-l-shaped-adjustable-standing-desk-white-e7lw557624wht/product_24572664",
+  "planner": {
+   "n": "FlexiSpot E7L L-shaped standing desk, 76\" \u00d7 24\" + 55\" \u00d7 28\", white",
+   "k": "desk",
+   "w": 76,
+   "d": 24,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "officedepot-com-a-products-8090499-flexispot-e7l-76w-l-shape-05b479",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Office Depot",
+  "name": "FlexiSpot E7L, bamboo top, black frame",
+  "price": "$954.49 (reg. $999.99)",
+  "dims": "76 \u00d7 24 + 55 \u00d7 28",
+  "note": "Same desk with a bamboo top if you prefer wood over white laminate.",
+  "url": "https://www.officedepot.com/a/products/8090499/FlexiSpot-E7L-76W-L-Shaped-Electric/",
+  "planner": {
+   "n": "FlexiSpot E7L, bamboo top, black frame",
+   "k": "desk",
+   "w": 76,
+   "d": 24,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "upliftdesk-com-uplift-v2-l-shaped-standing-desk-0e2fea",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "UPLIFT Desk",
+  "name": "UPLIFT V2 L-Shaped Standing Desk, 3-leg",
+  "price": "from $1,049 (reg. $1,149)",
+  "dims": "configurable; 72 \u00d7 30 main with 48 \u00d7 30 return is a common build",
+  "note": "Sturdier and more configurable than the FlexiSpot, 15-year warranty, but you'll land near $1,300 with a laminate top. Site blocks price checks from here, so configure it there.",
+  "url": "https://www.upliftdesk.com/uplift-v2-l-shaped-standing-desk/",
+  "planner": {
+   "n": "UPLIFT V2 L-Shaped Standing Desk, 3-leg",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "staples-com-flexispot-e7-72-w-adjustable-bamboo-top-standing-1aae5c",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Staples",
+  "name": "FlexiSpot E7, 72 \u00d7 30, bamboo top, white frame",
+  "price": "$489.99 at Staples; $599.99 at Quill; $889.99 at Best Buy",
+  "dims": "72 \u00d7 30 in, 22.8 to 48.4 in high",
+  "note": "Best value for the length. Same E7 frame as the Pro, 355 lb lift, dual motor. The Staples listing is old, so confirm the price before ordering; Quill is the same company and had it at $599.99.",
+  "url": "https://www.staples.com/flexispot-e7-72-w-adjustable-bamboo-top-standing-desk-white-e7wcr7230lbzb/product_24572665",
+  "planner": {
+   "n": "FlexiSpot E7, 72 \u00d7 30, bamboo top, white frame",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  "has_image": false
+ },
+ {
+  "id": "vari-com-electric-standing-desk-with-comfortedge-72x30-40228-f84e3b",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Vari",
+  "name": "Vari Electric Standing Desk 72 \u00d7 30 (ComfortEdge)",
+  "price": "$743 to $799 on sale (reg. $999)",
+  "dims": "72 \u00d7 30 in",
+  "note": "Arrives nearly assembled, sloped front edge, several finishes. Pricier than FlexiSpot, easier setup.",
+  "url": "https://www.vari.com/electric-standing-desk-with-comfortedge-72x30/402280.html",
+  "planner": {
+   "n": "Vari Electric Standing Desk 72 \u00d7 30 (ComfortEdge)",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#e6e1d6"
+  },
+  "has_image": false
+ },
+ {
+  "id": "upliftdesk-com-uplift-v2-standing-desk-v2-or-v2-commercial-940489",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "UPLIFT Desk",
+  "name": "UPLIFT V3 standing desk, 80 \u00d7 30",
+  "price": "from $599 base plus $60 to $320 for larger tops",
+  "dims": "80 \u00d7 30 in available",
+  "note": "The 80\" option if you want one surface for everything. Uplift blocks price checks from here; configure on their site.",
+  "url": "https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/",
+  "planner": {
+   "n": "UPLIFT V3 standing desk, 80 \u00d7 30",
+   "k": "desk",
+   "w": 80,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  "has_image": false
+ },
+ {
+  "id": "benq-com-en-us-monitor-home-ma270u-html-23854a",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "BenQ",
+  "name": "BenQ MA270U, 27\" 4K monitor for Mac, white",
+  "price": "about $460 to $550 by retailer",
+  "dims": "24.2 \u00d7 8.7 in with stand, 22.1 in tall; VESA 100",
+  "note": "Built-in 3 W \u00d7 2 speakers, Mac color modes, 90 W USB-C charging, built-in KVM so two machines share one keyboard and mouse. Two of these side by side are 48\" wide.",
+  "url": "https://www.benq.com/en-us/monitor/home/ma270u.html",
+  "planner": {
+   "n": "BenQ MA270U, 27\" 4K monitor for Mac, white",
+   "k": "generic",
+   "w": 24.2,
+   "d": 8.7,
+   "h": 22,
+   "c": "#f4f4f2"
+  },
+  "has_image": true
+ },
+ {
+  "id": "benq-com-en-us-monitor-home-ma320u-html-32913c",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "BenQ",
+  "name": "BenQ MA320U, 32\" 4K monitor for Mac, white",
+  "price": "about $600 to $650 by retailer",
+  "dims": "28.1 \u00d7 8.7 in with stand, 24 in tall; VESA 100",
+  "note": "Same feature set, bigger and brighter (550 nits). Two of these are 56\" wide, so they want the XL desk if you also keep laptops on the surface. Some retailers list the finish as gray or silver; confirm white before ordering.",
+  "url": "https://www.benq.com/en-us/monitor/home/ma320u.html",
+  "planner": {
+   "n": "BenQ MA320U, 32\" 4K monitor for Mac, white",
+   "k": "generic",
+   "w": 28.1,
+   "d": 8.7,
+   "h": 24,
+   "c": "#f4f4f2"
+  },
+  "has_image": true
+ },
+ {
+  "id": "partners-spigen-com-products-vertical-laptop-stand-ld208s4-8771e9",
+  "section": "shop-office",
+  "section_title": "Den office: chair, standing desk, monitors",
+  "vendor": "Spigen",
+  "name": "Spigen 4-slot vertical laptop stand (LD208S4)",
+  "price": "$49.99",
+  "dims": "holds 4 laptops upright",
+  "note": "Parks all four laptops closed and upright in about 10\" of desk. Pair with one Thunderbolt or USB-C dock per active laptop, or use the BenQ KVM for two of them.",
+  "url": "https://partners.spigen.com/products/vertical-laptop-stand-ld208s4",
+  "planner": {
+   "n": "Spigen 4-slot vertical laptop stand (LD208S4)",
+   "k": "generic",
+   "w": 10,
+   "d": 8,
+   "h": 5,
+   "c": "#9aa7b0"
+  },
+  "has_image": false
+ },
+ {
+  "id": "caravanafurniture-com-products-lift-top-round-coffee-table-0d9be7",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Caravana Furniture",
+  "name": "Lift-Top Round Coffee Table (Modus Oskar)",
+  "price": "$799",
+  "dims": "35 \u00d7 35 \u00d7 16 in",
+  "note": "Round, so it works in front of a sectional on the angled wall. White-glove included.",
+  "url": "https://www.caravanafurniture.com/products/lift-top-round-coffee-table",
+  "planner": {
+   "n": "Lift-Top Round Coffee Table (Modus Oskar)",
+   "k": "roundtable",
+   "w": 35,
+   "d": 35,
+   "h": 16,
+   "c": "#c9b08a"
+  },
+  "has_image": true
+ },
+ {
+  "id": "caravanafurniture-com-products-glossy-lift-top-coffee-table-13f153",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Caravana Furniture",
+  "name": "Glossy Lift-Top Coffee Table",
+  "price": "$429",
+  "dims": "47 \u00d7 20 \u00d7 14 in",
+  "note": "Gloss white, low and narrow. Matches the bed finish. White-glove included.",
+  "url": "https://www.caravanafurniture.com/products/glossy-lift-top-coffee-table",
+  "planner": {
+   "n": "Glossy Lift-Top Coffee Table",
+   "k": "table",
+   "w": 47,
+   "d": 20,
+   "h": 14,
+   "c": "#eeeeee"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-acme-furniture-calnan-47-in-black-chrome-lar-d3d235",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Acme Calnan 47\" lift-top coffee table, black/chrome",
+  "price": "$281.93",
+  "dims": "47 \u00d7 20 \u00d7 24 in (24 in is the lifted height)",
+  "note": "Same frame family as the Caravana gloss table (Acme 81855) in a black finish.",
+  "url": "https://www.homedepot.com/p/Acme-Furniture-Calnan-47-in-Black-Chrome-Large-Rectangle-Wood-Coffee-Table-with-Lift-Top-81855/301202470",
+  "planner": {
+   "n": "Acme Calnan 47\" lift-top coffee table, black/chrome",
+   "k": "table",
+   "w": 47,
+   "d": 20,
+   "h": 18,
+   "c": "#2b2b2b"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-dex-48-in-walnut-rectangle-wood-coffee-table-b0ce28",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Dex 48\" walnut lift-top coffee table",
+  "price": "$428.13",
+  "dims": "48 \u00d7 24 \u00d7 19 in",
+  "note": "Walnut veneer, mid-century look that sits well with the Sven sectional.",
+  "url": "https://www.homedepot.com/p/Dex-48-in-Walnut-Rectangle-Wood-Coffee-Table-with-Lift-Top-TJX100CTLT/304535075",
+  "planner": {
+   "n": "Dex 48\" walnut lift-top coffee table",
+   "k": "table",
+   "w": 48,
+   "d": 24,
+   "h": 19,
+   "c": "#6b4a35"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-alaterre-furniture-pomona-42-in-rustic-natur-0a8dfe",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Alaterre Pomona 42\" rustic natural lift-top",
+  "price": "$273.78",
+  "dims": "42 \u00d7 24 \u00d7 18 in",
+  "note": "Solid wood and metal, lighter tone for the dark floors.",
+  "url": "https://www.homedepot.com/p/Alaterre-Furniture-Pomona-42-in-Rustic-Natural-Rectangle-Wood-Coffee-Table-with-Lift-Top-AMBA1120LT/317088434",
+  "planner": {
+   "n": "Alaterre Pomona 42\" rustic natural lift-top",
+   "k": "table",
+   "w": 42,
+   "d": 24,
+   "h": 18,
+   "c": "#b89b7a"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-furniture-of-america-anthem-41-in-reclaimed--056aa9",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Furniture of America Anthem 41\" reclaimed-oak lift-top",
+  "price": "listed $119.87 (also shown at $299.68)",
+  "dims": "41 \u00d7 23.6 \u00d7 16.3 in",
+  "note": "Two prices appear on the listing, so confirm at checkout. Particle board.",
+  "url": "https://www.homedepot.com/p/Furniture-of-America-Anthem-41-in-Reclaimed-Oak-Rectangle-Particle-Board-Coffee-Table-with-Lift-Top-YNJ-1891C25/306488361",
+  "planner": {
+   "n": "Furniture of America Anthem 41\" reclaimed-oak lift-top",
+   "k": "table",
+   "w": 41,
+   "d": 23.6,
+   "h": 16.3,
+   "c": "#a8906e"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-jayden-creation-emma-52-in-natural-lift-top--dc1619",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Jayden Creation Emma 52\" lift-top with shelf",
+  "price": "$378.25",
+  "dims": "52 \u00d7 32 \u00d7 28.75 in (28.75 is lifted)",
+  "note": "Biggest top of the group, rubberwood legs. 32\" deep, so leave it for the floating layout rather than the wall layout.",
+  "url": "https://www.homedepot.com/p/JAYDEN-CREATION-Emma-52-in-Natural-Lift-Top-Rectangle-Coffee-Table-with-Storage-Shelf-and-Solid-Rubber-Wood-Legs-CTJY0755-NAT/327320323",
+  "planner": {
+   "n": "Jayden Creation Emma 52\" lift-top with shelf",
+   "k": "table",
+   "w": 52,
+   "d": 32,
+   "h": 18,
+   "c": "#d9c7a0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "homedepot-com-p-harper-bright-designs-46-93-in-brown-lift-to-f5cf3c",
+  "section": "shop-lift",
+  "section_title": "Lift-top coffee tables",
+  "vendor": "Home Depot",
+  "name": "Harper & Bright 46.9\" lift-top with hidden storage",
+  "price": "$101.72",
+  "dims": "46.9 \u00d7 23.6 \u00d7 17.6 in",
+  "note": "Budget option. Engineered wood.",
+  "url": "https://www.homedepot.com/p/Harper-Bright-Designs-46-93-in-Brown-Lift-Top-Rectangle-Wood-Coffee-Table-with-Hidden-Storage-and-Adjustable-Desktop-WC116AAD/343312651",
+  "planner": {
+   "n": "Harper & Bright 46.9\" lift-top with hidden storage",
+   "k": "table",
+   "w": 46.9,
+   "d": 23.6,
+   "h": 17.6,
+   "c": "#7a5a40"
+  },
+  "has_image": true
+ },
+ {
+  "id": "hideitmounts-com-products-hideit-ps5-sony-playstation-5-moun-749c66",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "HIDEit Mounts",
+  "name": "HIDEit PS5 wall mount (PS5 and PS5 Pro)",
+  "price": "$31",
+  "dims": "mounts the console flat to the wall",
+  "note": "Zero floor space. Mount it beside or behind the wall-hung TV and skip the console entirely, which keeps the full 3'4\" walkway at the foot of the bed.",
+  "url": "https://www.hideitmounts.com/products/hideit-ps5-sony-playstation-5-mount",
+  "planner": {
+   "n": "HIDEit PS5 wall mount (PS5 and PS5 Pro)",
+   "k": "generic",
+   "w": 4.5,
+   "d": 10.5,
+   "h": 15.5,
+   "c": "#f0f0f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "hideitmounts-com-products-hideit-ps5s-sony-playstation-ps5-s-0ace31",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "HIDEit Mounts",
+  "name": "HIDEit PS5 Slim wall mount",
+  "price": "$30",
+  "dims": "for the Slim model only",
+  "note": "Same idea for the Slim. Check which PS5 you have: the original and Pro use the mount above.",
+  "url": "https://www.hideitmounts.com/products/hideit-ps5s-sony-playstation-ps5-slim-mount",
+  "planner": {
+   "n": "HIDEit PS5 Slim wall mount",
+   "k": "generic",
+   "w": 4,
+   "d": 9,
+   "h": 14.5,
+   "c": "#f0f0f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "hideitmounts-com-products-gaming-nintendo-switch-wall-mount--dd63a8",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "HIDEit Mounts",
+  "name": "HIDEit Switch wall mount (original and OLED)",
+  "price": "$24",
+  "dims": "holds the dock",
+  "note": "The Switch 2 version is $30. Pair with the PS5 mount and the only furniture under the TV is whatever you want there.",
+  "url": "https://www.hideitmounts.com/products/gaming_nintendo_switch_wall_mount_hideit_switch",
+  "planner": {
+   "n": "HIDEit Switch wall mount (original and OLED)",
+   "k": "generic",
+   "w": 7,
+   "d": 3,
+   "h": 5,
+   "c": "#f0f0f0"
+  },
+  "has_image": true
+ },
+ {
+  "id": "ikea-com-us-en-p-lack-wall-shelf-white-30282181-60ca3e",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "IKEA Carson",
+  "name": "LACK wall shelf, white, 43\u00bc \u00d7 10\u00bc in",
+  "price": "$29.99",
+  "dims": "43.25 \u00d7 10.25 in, 22 lb limit",
+  "note": "Floating shelf under a wall-mounted TV. A PS5 Slim (8.5\" deep) sits on it fully; the original PS5 (10.2\" deep) just about fits with the cable end over the edge. Screws sold separately.",
+  "url": "https://www.ikea.com/us/en/p/lack-wall-shelf-white-30282181/",
+  "planner": {
+   "n": "LACK wall shelf, white, 43\u00bc \u00d7 10\u00bc in",
+   "k": "generic",
+   "w": 43.25,
+   "d": 10.25,
+   "h": 2,
+   "c": "#f4f4f2"
+  },
+  "has_image": false
+ },
+ {
+  "id": "ikea-com-us-en-p-lack-tv-unit-white-90631400-ae2696",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "IKEA Carson",
+  "name": "LACK TV unit, white, 35\u215c \u00d7 14\u215b \u00d7 17\u00be in",
+  "price": "$24.99",
+  "dims": "35.4 \u00d7 14.1 \u00d7 17.75 in",
+  "note": "Cheapest floor option. Open shelf for both consoles. 14\" deep leaves about 26\" of walkway, like the Caravana stand. Flat-pack, you assemble.",
+  "url": "https://www.ikea.com/us/en/p/lack-tv-unit-white-90631400/",
+  "planner": {
+   "n": "LACK TV unit, white, 35\u215c \u00d7 14\u215b \u00d7 17\u00be in",
+   "k": "storage",
+   "w": 35.4,
+   "d": 14.1,
+   "h": 17.75,
+   "c": "#f4f4f2"
+  },
+  "has_image": true
+ },
+ {
+  "id": "burrow-com-shelves-and-storage-index-console-2448cb",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "Burrow",
+  "name": "Index Console, oak hardwood",
+  "price": "$376 (35% off $579)",
+  "dims": "60.7 \u00d7 13.7 \u00d7 28.7 in",
+  "note": "Best-looking shallow console of the group, but it ships in 20 to 22 weeks, which lands after the January 7 move-in. 28.7\" tall, so a TV on top sits higher than on the 17\" stands.",
+  "url": "https://burrow.com/shelves-and-storage/index-console",
+  "planner": {
+   "n": "Index Console, oak hardwood",
+   "k": "storage",
+   "w": 60.7,
+   "d": 13.7,
+   "h": 28.7,
+   "c": "#c9a877"
+  },
+  "has_image": false
+ },
+ {
+  "id": "floativa-com-products-rustic-brown-slim-floating-tv-stand-wa-b95550",
+  "section": "shop-console",
+  "section_title": "Console alternatives for the PS5 and Switch",
+  "vendor": "Floativa",
+  "name": "78.74\" Rustic Brown slim floating TV stand",
+  "price": "$269.99",
+  "dims": "78.74 \u00d7 9.29 \u00d7 7.13 in",
+  "note": "Wall-mounted, 9.3\" deep: fine for a PS5 Slim and a Switch dock, too shallow for the original PS5 to sit flat. Nearly 7 feet wide, so it would span most of the den wall.",
+  "url": "https://floativa.com/products/rustic-brown-slim-floating-tv-stand-wall-shelf-up-to-85-tvs",
+  "planner": {
+   "n": "78.74\" Rustic Brown slim floating TV stand",
+   "k": "generic",
+   "w": 78.74,
+   "d": 9.29,
+   "h": 7.13,
+   "c": "#8b6b4e"
+  },
+  "has_image": true
+ }
+]

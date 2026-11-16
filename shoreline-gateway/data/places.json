@@ -1,0 +1,263 @@
+[
+  {
+    "n": "Kin Long Beach",
+    "c": "eat",
+    "t": "Thai",
+    "a": "740 E Broadway (at Alamitos Ave)",
+    "mi": 0.2,
+    "note": "Neighborhood favorite with about 2,000 reviews near 4.6 stars. Lunch and dinner, closes mid-afternoon between services."
+  },
+  {
+    "n": "Gaucho Beach",
+    "c": "eat",
+    "t": "Argentine, on the sand",
+    "a": "780 E Shoreline Dr",
+    "mi": 0.2,
+    "note": "Full-service restaurant and cafe on Alamitos Beach directly below the Villa Riviera. Two open-air patios. Your closest beach lunch."
+  },
+  {
+    "n": "555 East American Steakhouse",
+    "c": "eat",
+    "t": "Steakhouse",
+    "a": "555 E Ocean Blvd",
+    "mi": 0.2,
+    "note": "Old-school prime steaks and a deep wine list. The special-occasion spot two blocks west."
+  },
+  {
+    "n": "Modica's Restaurant & Deli",
+    "c": "eat",
+    "t": "Italian deli",
+    "a": "455 E Ocean Blvd (Cooper Arms building)",
+    "mi": 0.3,
+    "note": "Sandwiches, salads and pasta in the historic Cooper Arms. Good takeout for a beach picnic."
+  },
+  {
+    "n": "The Breakfast Bar",
+    "c": "eat",
+    "t": "Breakfast and brunch",
+    "a": "70 Atlantic Ave",
+    "mi": 0.3,
+    "note": "Creative brunch and drinks in the East Village. Expect a wait on weekends."
+  },
+  {
+    "n": "Ammatoli",
+    "c": "eat",
+    "t": "Mediterranean",
+    "a": "285 E 3rd St",
+    "mi": 0.6,
+    "note": "Levantine plates and seafood, 4.6 on Yelp, patio seating. Around $30 a head."
+  },
+  {
+    "n": "Ellie's",
+    "c": "eat",
+    "t": "Italian",
+    "a": "204 Orange Ave",
+    "mi": 0.5,
+    "note": "Handmade pasta in a converted house in Alamitos Beach. Reservations recommended."
+  },
+  {
+    "n": "The Ordinarie",
+    "c": "eat",
+    "t": "Gastropub",
+    "a": "210 The Promenade N",
+    "mi": 0.7,
+    "note": "Tavern on the Promenade, strong cocktails, late kitchen.",
+    "verify": true
+  },
+  {
+    "n": "BO-beau kitchen + roof tap",
+    "c": "eat",
+    "t": "French-Californian, rooftop",
+    "a": "144 Pine Ave",
+    "mi": 0.8,
+    "note": "Rooftop beer garden over a brasserie on Pine Ave."
+  },
+  {
+    "n": "Cafe Sevilla",
+    "c": "eat",
+    "t": "Spanish tapas, flamenco",
+    "a": "140 Pine Ave",
+    "mi": 0.8,
+    "note": "Tapas, paella and a nightclub downstairs. Flamenco dinner shows on weekends.",
+    "verify": true
+  },
+  {
+    "n": "Parkers' Lighthouse",
+    "c": "eat",
+    "t": "Seafood, waterfront",
+    "a": "435 Shoreline Village Dr",
+    "mi": 1,
+    "note": "Harbor views over Rainbow Lagoon. Yard House and Tequila Jack's are in the same village."
+  },
+  {
+    "n": "The Village Grind",
+    "c": "coffee",
+    "t": "Cafe",
+    "a": "443 E 1st St",
+    "mi": 0.3,
+    "note": "The oldest coffee shop in the East Village. Food beyond drinks, easy walk for a morning routine."
+  },
+  {
+    "n": "Lord Windsor Coffee",
+    "c": "coffee",
+    "t": "Roaster and cafe",
+    "a": "1101 E 3rd St",
+    "mi": 0.5,
+    "note": "Local roaster in Alamitos Beach. Good for working with a laptop."
+  },
+  {
+    "n": "Recreational Coffee",
+    "c": "coffee",
+    "t": "Cafe",
+    "a": "237 Long Beach Blvd",
+    "mi": 0.7,
+    "note": "Downtown staple with a welcoming, queer-friendly room. Near the 1st St station."
+  },
+  {
+    "n": "Rose Park Roasters, Pine Ave",
+    "c": "coffee",
+    "t": "Roaster and cafe",
+    "a": "800 Pine Ave",
+    "mi": 1.1,
+    "note": "Downtown outpost of the 4th St roaster. On the way north on Pine; a bike or bus trip rather than a daily walk."
+  },
+  {
+    "n": "Vons",
+    "c": "grocery",
+    "t": "Full supermarket + pharmacy",
+    "a": "600 E Broadway (at Atlantic Ave)",
+    "mi": 0.3,
+    "note": "Open 6am to 10pm daily. In-store pharmacy, deli, bakery. Delivery and pickup through the Vons app. Your default grocery."
+  },
+  {
+    "n": "Smart & Final Extra",
+    "c": "grocery",
+    "t": "Warehouse grocery",
+    "a": "1320 Atlantic Ave",
+    "mi": 1.4,
+    "note": "Bulk and household goods. Take the bus up Atlantic or a rideshare for a big stock-up."
+  },
+  {
+    "n": "Whole Foods Market",
+    "c": "grocery",
+    "t": "Supermarket",
+    "a": "6550 E Pacific Coast Hwy",
+    "mi": 5,
+    "note": "Not walkable. Bus 121 east along Ocean then PCH, or rideshare. Delivery via Amazon."
+  },
+  {
+    "n": "Gelson's",
+    "c": "grocery",
+    "t": "Supermarket",
+    "a": "6255 E 2nd St (Marina Pacifica)",
+    "mi": 5,
+    "note": "Not walkable. Same trip as Whole Foods. Open 7am to 9pm."
+  },
+  {
+    "n": "Vons Pharmacy",
+    "c": "essentials",
+    "t": "Pharmacy",
+    "a": "600 E Broadway",
+    "mi": 0.3,
+    "note": "Weekdays 8am to 8pm, weekends 9am to 5pm per most listings. Closest pharmacy to the building.",
+    "verify": true
+  },
+  {
+    "n": "CVS Pharmacy",
+    "c": "essentials",
+    "t": "Pharmacy, drive-thru",
+    "a": "596 Long Beach Blvd",
+    "mi": 1,
+    "note": "Weekdays 8am to 9pm. Walgreens sits across the street at 600 Long Beach Blvd."
+  },
+  {
+    "n": "Billie Jean King Main Library",
+    "c": "essentials",
+    "t": "Public library",
+    "a": "200 W Broadway",
+    "mi": 1,
+    "note": "Main branch at Lincoln Park next to City Hall. Free wifi, printing, and a library card gets you ebooks."
+  },
+  {
+    "n": "The Pike Outlets",
+    "c": "essentials",
+    "t": "Shopping, cinema",
+    "a": "95 S Pine Ave",
+    "mi": 1,
+    "note": "Outlet shops, Cinemark theater and restaurants between Pine Ave and Shoreline Village."
+  },
+  {
+    "n": "Alamitos Beach",
+    "c": "outdoors",
+    "t": "Beach",
+    "a": "Across Ocean Blvd, stairs at Alamitos Ave",
+    "mi": 0.1,
+    "note": "Wide, calm beach protected by the breakwater. The bike and pedestrian path runs the full length toward Belmont Shore."
+  },
+  {
+    "n": "Shoreline Pedestrian Bikepath",
+    "c": "outdoors",
+    "t": "Beach path",
+    "a": "Enter at the foot of Alamitos Ave",
+    "mi": 0.1,
+    "note": "About 3 miles of car-free path from Shoreline Village to Belmont Shore. Separate lanes for bikes and walkers."
+  },
+  {
+    "n": "Bixby Park",
+    "c": "outdoors",
+    "t": "Park, dog park",
+    "a": "130 Cherry Ave (Ocean Blvd & Cherry)",
+    "mi": 1.1,
+    "note": "Bluff-top park with a dog run, skate park and a Tuesday farmers market. Easy stroll east along Ocean.",
+    "verify": true
+  },
+  {
+    "n": "Shoreline Village & Rainbow Harbor",
+    "c": "outdoors",
+    "t": "Waterfront",
+    "a": "401 Shoreline Village Dr",
+    "mi": 1,
+    "note": "Boardwalk, harbor cruises and the Aquarium of the Pacific just beyond. Reachable by the beach path or the Passport shuttle."
+  },
+  {
+    "n": "LBT stop, Ocean Blvd & Alamitos Ave",
+    "c": "transit",
+    "t": "Bus stop",
+    "a": "Corner of the building",
+    "mi": 0,
+    "note": "Route 121 to Belmont Shore, CSULB and Downtown. Check the LBT app for real-time arrivals."
+  },
+  {
+    "n": "1st Street Station",
+    "c": "transit",
+    "t": "Metro A Line",
+    "a": "1st St & Pine Ave",
+    "mi": 0.6,
+    "note": "First stop heading north toward LA. Next to the Transit Mall where most Long Beach Transit routes connect."
+  },
+  {
+    "n": "Downtown Long Beach Station",
+    "c": "transit",
+    "t": "Metro A Line terminus",
+    "a": "1st St & Pacific Ave",
+    "mi": 0.8,
+    "note": "End of the line. Trains start here, so you always get a seat."
+  },
+  {
+    "n": "5th Street Station",
+    "c": "transit",
+    "t": "Metro A Line",
+    "a": "Long Beach Blvd & 5th St",
+    "mi": 0.9,
+    "note": "Next stop north. Closer to CVS and Walgreens."
+  },
+  {
+    "n": "Long Beach Bike Share dock",
+    "c": "transit",
+    "t": "Bike share",
+    "a": "Multiple docks Downtown and along Ocean Blvd",
+    "mi": 0.2,
+    "note": "Over 100 stations citywide. Check the app for the dock nearest the building.",
+    "verify": true
+  }
+]

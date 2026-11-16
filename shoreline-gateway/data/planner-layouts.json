@@ -1,0 +1,933 @@
+{
+ "PRESETS": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8"
+  },
+  {
+   "n": "Jessica queen platform bed (202990Q)",
+   "k": "bed",
+   "w": 72,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8"
+  },
+  {
+   "n": "King mattress only",
+   "k": "generic",
+   "w": 76,
+   "d": 80,
+   "h": 12,
+   "c": "#f1ede6"
+  },
+  {
+   "n": "Queen mattress only",
+   "k": "generic",
+   "w": 60,
+   "d": 80,
+   "h": 12,
+   "c": "#f1ede6"
+  },
+  {
+   "n": "Caravana Mid-Century 48\" TV stand (13.5\" deep)",
+   "k": "storage",
+   "w": 48,
+   "d": 13.5,
+   "h": 17,
+   "c": "#8b6b4e"
+  },
+  {
+   "n": "Caravana 46\" Walnut slatted TV stand",
+   "k": "storage",
+   "w": 46,
+   "d": 15.5,
+   "h": 17.5,
+   "c": "#7a5a40"
+  },
+  {
+   "n": "Caravana Rectangular mango console table",
+   "k": "desk",
+   "w": 46,
+   "d": 14,
+   "h": 30,
+   "c": "#b08a63"
+  },
+  {
+   "n": "TV 55\" wall-mounted",
+   "k": "generic",
+   "w": 48.5,
+   "d": 3,
+   "h": 28,
+   "c": "#1f2326"
+  },
+  {
+   "n": "TV 65\" wall-mounted",
+   "k": "generic",
+   "w": 57,
+   "d": 3,
+   "h": 33,
+   "c": "#1f2326"
+  },
+  {
+   "n": "PS5 (horizontal)",
+   "k": "generic",
+   "w": 15.4,
+   "d": 10.2,
+   "h": 4.1,
+   "c": "#f0f0f0"
+  },
+  {
+   "n": "Nightstand",
+   "k": "storage",
+   "w": 24,
+   "d": 18,
+   "h": 24,
+   "c": "#b89b7a"
+  },
+  {
+   "n": "Dresser 6-drawer",
+   "k": "storage",
+   "w": 60,
+   "d": 18,
+   "h": 34,
+   "c": "#b89b7a"
+  },
+  {
+   "n": "Sofa 90\"",
+   "k": "sofa",
+   "w": 90,
+   "d": 38,
+   "h": 33,
+   "c": "#6f8a99"
+  },
+  {
+   "n": "Loveseat 64\"",
+   "k": "sofa",
+   "w": 64,
+   "d": 36,
+   "h": 33,
+   "c": "#6f8a99"
+  },
+  {
+   "n": "Sectional L 100\"x64\"",
+   "k": "sofa",
+   "w": 100,
+   "d": 64,
+   "h": 33,
+   "c": "#6f8a99"
+  },
+  {
+   "n": "Coffee table",
+   "k": "table",
+   "w": 48,
+   "d": 24,
+   "h": 17,
+   "c": "#8b6b4e"
+  },
+  {
+   "n": "TV console 70\"",
+   "k": "storage",
+   "w": 70,
+   "d": 16,
+   "h": 20,
+   "c": "#8b6b4e"
+  },
+  {
+   "n": "Round dining table 48\"",
+   "k": "roundtable",
+   "w": 48,
+   "d": 48,
+   "h": 30,
+   "c": "#c9a877"
+  },
+  {
+   "n": "Dining table 60\"x36\"",
+   "k": "table",
+   "w": 60,
+   "d": 36,
+   "h": 30,
+   "c": "#c9a877"
+  },
+  {
+   "n": "Dining chair",
+   "k": "chair",
+   "w": 18,
+   "d": 20,
+   "h": 34,
+   "c": "#d9c6a3"
+  },
+  {
+   "n": "Secretlab MAGNUS Pro XL 67\"x31.5\" (white)",
+   "k": "desk",
+   "w": 67,
+   "d": 31.5,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  {
+   "n": "Secretlab MAGNUS Pro 59\"x27.6\" (white)",
+   "k": "desk",
+   "w": 59.1,
+   "d": 27.6,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  {
+   "n": "FlexiSpot E7 72\"x30\"",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  {
+   "n": "Standing desk 80\"x30\"",
+   "k": "desk",
+   "w": 80,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  {
+   "n": "Standing desk 96\"x30\"",
+   "k": "desk",
+   "w": 96,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  {
+   "n": "FlexiSpot E7L main run 76\"x24\"",
+   "k": "desk",
+   "w": 76,
+   "d": 24,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  {
+   "n": "FlexiSpot E7L return 55\"x28\"",
+   "k": "desk",
+   "w": 28,
+   "d": 55,
+   "h": 29,
+   "c": "#f2f2f0"
+  },
+  {
+   "n": "FlexiSpot E7 Pro 60\"x30\"",
+   "k": "desk",
+   "w": 60,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0"
+  },
+  {
+   "n": "Secretlab TITAN Evo chair",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0"
+  },
+  {
+   "n": "Lift-top round coffee table 35\"",
+   "k": "roundtable",
+   "w": 35,
+   "d": 35,
+   "h": 16,
+   "c": "#c9b08a"
+  },
+  {
+   "n": "Glossy lift-top coffee table 47\"x20\"",
+   "k": "table",
+   "w": 47,
+   "d": 20,
+   "h": 14,
+   "c": "#eeeeee"
+  },
+  {
+   "n": "Desk 60\"x30\"",
+   "k": "desk",
+   "w": 60,
+   "d": 30,
+   "h": 30,
+   "c": "#9aa7b0"
+  },
+  {
+   "n": "Office chair",
+   "k": "chair",
+   "w": 26,
+   "d": 26,
+   "h": 40,
+   "c": "#7c8790"
+  },
+  {
+   "n": "Bookcase 36\"x12\"",
+   "k": "storage",
+   "w": 36,
+   "d": 12,
+   "h": 72,
+   "c": "#9aa7b0"
+  },
+  {
+   "n": "Rug 8x10",
+   "k": "rug",
+   "w": 96,
+   "d": 120,
+   "h": 0.5,
+   "c": "#d6cbb8"
+  },
+  {
+   "n": "Rug 5x8",
+   "k": "rug",
+   "w": 60,
+   "d": 96,
+   "h": 0.5,
+   "c": "#d6cbb8"
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790"
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c"
+  },
+  {
+   "n": "Bistro table 28\"",
+   "k": "roundtable",
+   "w": 28,
+   "d": 28,
+   "h": 28,
+   "c": "#7c9a7c"
+  }
+ ],
+ "DEFAULT": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8",
+   "cx": 29.63,
+   "cy": 6.25,
+   "r": 0
+  },
+  {
+   "n": "Nightstand 18\"",
+   "k": "storage",
+   "w": 18,
+   "d": 18,
+   "h": 24,
+   "c": "#b89b7a",
+   "cx": 34.2,
+   "cy": 3.35,
+   "r": 0
+  },
+  {
+   "n": "FlexiSpot E7 72\"x30\"",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0",
+   "cx": 28.4,
+   "cy": 15.35,
+   "r": 0
+  },
+  {
+   "n": "Secretlab TITAN Evo chair",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0",
+   "cx": 28.3,
+   "cy": 18.1,
+   "r": 0
+  },
+  {
+   "n": "Sofa 90\"",
+   "k": "sofa",
+   "w": 90,
+   "d": 38,
+   "h": 33,
+   "c": "#6f8a99",
+   "cx": 18.5,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Coffee table",
+   "k": "table",
+   "w": 48,
+   "d": 24,
+   "h": 17,
+   "c": "#8b6b4e",
+   "cx": 18.5,
+   "cy": 30.3,
+   "r": 0
+  },
+  {
+   "n": "Rug 8x10",
+   "k": "rug",
+   "w": 96,
+   "d": 120,
+   "h": 0.5,
+   "c": "#d6cbb8",
+   "cx": 18.5,
+   "cy": 29.5,
+   "r": 90
+  },
+  {
+   "n": "TV console 70\"",
+   "k": "storage",
+   "w": 70,
+   "d": 16,
+   "h": 20,
+   "c": "#8b6b4e",
+   "cx": 17.5,
+   "cy": 21.8,
+   "r": 0
+  },
+  {
+   "n": "Round dining table 48\"",
+   "k": "roundtable",
+   "w": 48,
+   "d": 48,
+   "h": 30,
+   "c": "#c9a877",
+   "cx": 10.5,
+   "cy": 33.3,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 24.6,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 36.5,
+   "cy": 7,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 37.8,
+   "cy": 8.6,
+   "r": 0
+  }
+ ],
+ "WALLSOFA": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8",
+   "cx": 29.63,
+   "cy": 6.25,
+   "r": 0
+  },
+  {
+   "n": "Nightstand 18\"",
+   "k": "storage",
+   "w": 18,
+   "d": 18,
+   "h": 24,
+   "c": "#b89b7a",
+   "cx": 34.2,
+   "cy": 3.35,
+   "r": 0
+  },
+  {
+   "n": "FlexiSpot E7 72\"x30\"",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0",
+   "cx": 28.4,
+   "cy": 15.35,
+   "r": 0
+  },
+  {
+   "n": "Secretlab TITAN Evo chair",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0",
+   "cx": 28.3,
+   "cy": 18.1,
+   "r": 0
+  },
+  {
+   "n": "Modern Neutral Chenille Sectional (Gray or Black)",
+   "k": "sectional",
+   "w": 119.25,
+   "d": 79.5,
+   "h": 35.5,
+   "c": "#8f8f8a",
+   "cx": 24.5,
+   "cy": 24.8,
+   "r": 14
+  },
+  {
+   "n": "Rug 8x10",
+   "k": "rug",
+   "w": 96,
+   "d": 120,
+   "h": 0.5,
+   "c": "#d6cbb8",
+   "cx": 22.3,
+   "cy": 27.6,
+   "r": 104
+  },
+  {
+   "n": "Glossy lift-top coffee table 47\"x20\"",
+   "k": "table",
+   "w": 47,
+   "d": 20,
+   "h": 14,
+   "c": "#eeeeee",
+   "cx": 21.6,
+   "cy": 28.6,
+   "r": 14
+  },
+  {
+   "n": "Round dining table 48\"",
+   "k": "roundtable",
+   "w": 48,
+   "d": 48,
+   "h": 30,
+   "c": "#c9a877",
+   "cx": 10.5,
+   "cy": 33.3,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 24.6,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 36.5,
+   "cy": 7,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 37.8,
+   "cy": 8.6,
+   "r": 0
+  }
+ ],
+ "VIEWDESK": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8",
+   "cx": 29.63,
+   "cy": 6.25,
+   "r": 0
+  },
+  {
+   "n": "Nightstand 18\"",
+   "k": "storage",
+   "w": 18,
+   "d": 18,
+   "h": 24,
+   "c": "#b89b7a",
+   "cx": 34.2,
+   "cy": 3.35,
+   "r": 0
+  },
+  {
+   "n": "FlexiSpot E7 72\"x30\" (facing the glass)",
+   "k": "desk",
+   "w": 72,
+   "d": 30,
+   "h": 29,
+   "c": "#d9c7a0",
+   "cx": 28.98,
+   "cy": 18,
+   "r": 117
+  },
+  {
+   "n": "Secretlab TITAN Evo chair",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0",
+   "cx": 26.57,
+   "cy": 16.77,
+   "r": 117
+  },
+  {
+   "n": "Sofa 90\"",
+   "k": "sofa",
+   "w": 90,
+   "d": 38,
+   "h": 33,
+   "c": "#6f8a99",
+   "cx": 18.5,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Coffee table",
+   "k": "table",
+   "w": 48,
+   "d": 24,
+   "h": 17,
+   "c": "#8b6b4e",
+   "cx": 18.5,
+   "cy": 30.3,
+   "r": 0
+  },
+  {
+   "n": "Rug 8x10",
+   "k": "rug",
+   "w": 96,
+   "d": 120,
+   "h": 0.5,
+   "c": "#d6cbb8",
+   "cx": 18.5,
+   "cy": 29.5,
+   "r": 90
+  },
+  {
+   "n": "TV console 70\"",
+   "k": "storage",
+   "w": 70,
+   "d": 16,
+   "h": 20,
+   "c": "#8b6b4e",
+   "cx": 17.5,
+   "cy": 21.8,
+   "r": 0
+  },
+  {
+   "n": "Round dining table 48\"",
+   "k": "roundtable",
+   "w": 48,
+   "d": 48,
+   "h": 30,
+   "c": "#c9a877",
+   "cx": 10.5,
+   "cy": 33.3,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 24.6,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 36.5,
+   "cy": 7,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 37.8,
+   "cy": 8.6,
+   "r": 0
+  }
+ ],
+ "LDESK": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8",
+   "cx": 29.63,
+   "cy": 6.25,
+   "r": 0
+  },
+  {
+   "n": "Nightstand 18\"",
+   "k": "storage",
+   "w": 18,
+   "d": 18,
+   "h": 24,
+   "c": "#b89b7a",
+   "cx": 34.2,
+   "cy": 3.35,
+   "r": 0
+  },
+  {
+   "n": "FlexiSpot E7L main run 76\"x24\"",
+   "k": "desk",
+   "w": 76,
+   "d": 24,
+   "h": 29,
+   "c": "#f2f2f0",
+   "cx": 26.83,
+   "cy": 14.85,
+   "r": 0
+  },
+  {
+   "n": "Secretlab TITAN Evo chair",
+   "k": "chair",
+   "w": 27,
+   "d": 27,
+   "h": 51,
+   "c": "#f2f2f0",
+   "cx": 25.9,
+   "cy": 17.45,
+   "r": 0
+  },
+  {
+   "n": "FlexiSpot E7L return 55\"x28\" (laptops)",
+   "k": "desk",
+   "w": 28,
+   "d": 55,
+   "h": 29,
+   "c": "#f2f2f0",
+   "cx": 28.83,
+   "cy": 16.14,
+   "r": 0
+  },
+  {
+   "n": "Sofa 90\"",
+   "k": "sofa",
+   "w": 90,
+   "d": 38,
+   "h": 33,
+   "c": "#6f8a99",
+   "cx": 18.5,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Coffee table",
+   "k": "table",
+   "w": 48,
+   "d": 24,
+   "h": 17,
+   "c": "#8b6b4e",
+   "cx": 18.5,
+   "cy": 30.3,
+   "r": 0
+  },
+  {
+   "n": "Rug 8x10",
+   "k": "rug",
+   "w": 96,
+   "d": 120,
+   "h": 0.5,
+   "c": "#d6cbb8",
+   "cx": 18.5,
+   "cy": 29.5,
+   "r": 90
+  },
+  {
+   "n": "TV console 70\"",
+   "k": "storage",
+   "w": 70,
+   "d": 16,
+   "h": 20,
+   "c": "#8b6b4e",
+   "cx": 17.5,
+   "cy": 21.8,
+   "r": 0
+  },
+  {
+   "n": "Round dining table 48\"",
+   "k": "roundtable",
+   "w": 48,
+   "d": 48,
+   "h": 30,
+   "c": "#c9a877",
+   "cx": 10.5,
+   "cy": 33.3,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 24.6,
+   "r": 0
+  },
+  {
+   "n": "Bar stool",
+   "k": "stool",
+   "w": 16,
+   "d": 16,
+   "h": 30,
+   "c": "#7c8790",
+   "cx": 11.9,
+   "cy": 27,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 36.5,
+   "cy": 7,
+   "r": 0
+  },
+  {
+   "n": "Balcony chair",
+   "k": "chair",
+   "w": 26,
+   "d": 28,
+   "h": 32,
+   "c": "#7c9a7c",
+   "cx": 37.8,
+   "cy": 8.6,
+   "r": 0
+  }
+ ],
+ "BEDONLY": [
+  {
+   "n": "Jessica king platform bed (Coaster 202990KE)",
+   "k": "bed",
+   "w": 88,
+   "d": 88.75,
+   "h": 43.25,
+   "c": "#e9e4d8",
+   "cx": 29.63,
+   "cy": 6.25,
+   "r": 0
+  }
+ ],
+ "DEN": {
+  "x1": 18.125,
+  "y1": 19.655,
+  "x2": 28.875,
+  "y2": 23.141
+ },
+ "FIXED": [
+  {
+   "n": "Kitchen counter",
+   "x": 1.53,
+   "y": 19.05,
+   "w": 2.13,
+   "d": 16.35,
+   "h": 3
+  },
+  {
+   "n": "Island",
+   "x": 8.02,
+   "y": 23.56,
+   "w": 3.05,
+   "d": 5.86,
+   "h": 3
+  }
+ ]
+}
