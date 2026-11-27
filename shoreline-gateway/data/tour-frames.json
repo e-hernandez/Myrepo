@@ -1,0 +1,175 @@
+{
+ "source": "Realync virtual tour of unit 2607, recorded off a monitor 2026-11-27, white-balanced stills",
+ "sheets": [
+  "images/tour/01-entry.jpg",
+  "images/tour/02-laundry.jpg",
+  "images/tour/03-kitchen.jpg",
+  "images/tour/04-living.jpg",
+  "images/tour/05-den.jpg",
+  "images/tour/06-bathroom.jpg",
+  "images/tour/07-bedroom.jpg",
+  "images/tour/08-closet.jpg",
+  "images/tour/09-balcony-view.jpg"
+ ],
+ "frames": [
+  {
+   "file": "images/tour/01-entry-1-t7s.jpg",
+   "room": "entry",
+   "tour_second": 7
+  },
+  {
+   "file": "images/tour/01-entry-2-t12s.jpg",
+   "room": "entry",
+   "tour_second": 12
+  },
+  {
+   "file": "images/tour/01-entry-3-t20s.jpg",
+   "room": "entry",
+   "tour_second": 20
+  },
+  {
+   "file": "images/tour/01-entry-4-t27s.jpg",
+   "room": "entry",
+   "tour_second": 27
+  },
+  {
+   "file": "images/tour/02-laundry-1-t32s.jpg",
+   "room": "laundry",
+   "tour_second": 32
+  },
+  {
+   "file": "images/tour/03-kitchen-1-t35s.jpg",
+   "room": "kitchen",
+   "tour_second": 35
+  },
+  {
+   "file": "images/tour/03-kitchen-2-t40s.jpg",
+   "room": "kitchen",
+   "tour_second": 40
+  },
+  {
+   "file": "images/tour/03-kitchen-3-t46s.jpg",
+   "room": "kitchen",
+   "tour_second": 46
+  },
+  {
+   "file": "images/tour/03-kitchen-4-t53s.jpg",
+   "room": "kitchen",
+   "tour_second": 53
+  },
+  {
+   "file": "images/tour/03-kitchen-5-t67s.jpg",
+   "room": "kitchen",
+   "tour_second": 67
+  },
+  {
+   "file": "images/tour/04-living-1-t74s.jpg",
+   "room": "living",
+   "tour_second": 74
+  },
+  {
+   "file": "images/tour/04-living-2-t82s.jpg",
+   "room": "living",
+   "tour_second": 82
+  },
+  {
+   "file": "images/tour/04-living-3-t88s.jpg",
+   "room": "living",
+   "tour_second": 88
+  },
+  {
+   "file": "images/tour/04-living-4-t94s.jpg",
+   "room": "living",
+   "tour_second": 94
+  },
+  {
+   "file": "images/tour/04-living-5-t100s.jpg",
+   "room": "living",
+   "tour_second": 100
+  },
+  {
+   "file": "images/tour/05-den-1-t103s.jpg",
+   "room": "den",
+   "tour_second": 103
+  },
+  {
+   "file": "images/tour/05-den-2-t112s.jpg",
+   "room": "den",
+   "tour_second": 112
+  },
+  {
+   "file": "images/tour/05-den-3-t118s.jpg",
+   "room": "den",
+   "tour_second": 118
+  },
+  {
+   "file": "images/tour/06-bathroom-1-t126s.jpg",
+   "room": "bathroom",
+   "tour_second": 126
+  },
+  {
+   "file": "images/tour/06-bathroom-2-t131s.jpg",
+   "room": "bathroom",
+   "tour_second": 131
+  },
+  {
+   "file": "images/tour/06-bathroom-3-t139s.jpg",
+   "room": "bathroom",
+   "tour_second": 139
+  },
+  {
+   "file": "images/tour/06-bathroom-4-t144s.jpg",
+   "room": "bathroom",
+   "tour_second": 144
+  },
+  {
+   "file": "images/tour/07-bedroom-1-t153s.jpg",
+   "room": "bedroom",
+   "tour_second": 153
+  },
+  {
+   "file": "images/tour/07-bedroom-2-t162s.jpg",
+   "room": "bedroom",
+   "tour_second": 162
+  },
+  {
+   "file": "images/tour/08-closet-1-t165s.jpg",
+   "room": "closet",
+   "tour_second": 165
+  },
+  {
+   "file": "images/tour/08-closet-2-t170s.jpg",
+   "room": "closet",
+   "tour_second": 170
+  },
+  {
+   "file": "images/tour/09-balcony-view-1-t173s.jpg",
+   "room": "balcony-view",
+   "tour_second": 173
+  },
+  {
+   "file": "images/tour/09-balcony-view-2-t179s.jpg",
+   "room": "balcony-view",
+   "tour_second": 179
+  },
+  {
+   "file": "images/tour/09-balcony-view-3-t184s.jpg",
+   "room": "balcony-view",
+   "tour_second": 184
+  },
+  {
+   "file": "images/tour/09-balcony-view-4-t192s.jpg",
+   "room": "balcony-view",
+   "tour_second": 192
+  },
+  {
+   "file": "images/tour/09-balcony-view-5-t197s.jpg",
+   "room": "balcony-view",
+   "tour_second": 197
+  }
+ ],
+ "boards": [
+  "images/tour/bath-real-board.jpg",
+  "images/tour/bath-real-oat.jpg"
+ ]
+}

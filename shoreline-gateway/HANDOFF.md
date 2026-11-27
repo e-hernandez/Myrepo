@@ -94,7 +94,30 @@ Card `planner` object: `{n, k, w, d, h, c}`; `k` ∈ bed, sofa, sectional, table
 - Vendor sync: Shopify stores (`/products.json`) are easy; Home Depot product pages are fetchable; Wayfair/Amazon/Target/Walmart/Living Spaces/Bob's/IKEA need a real browser.
 - Owner votes → "find similar" is the next feature the user asked for: filter by liked cards' vendor/style/dims and re-query.
 
-## 8. Open items the user still owes
+## 8. Open items the user still owes (as of 11/16; see section 9 for the current list)
 - The lease PDF (TV mounting and delivery COI terms). Ask again; PDFs were being dropped by the chat surface, so request screenshots or pasted text.
 - Which PS5 (original/Pro vs Slim) — decides the HIDEit mount and shelf depth.
 - Thumbs-up votes (none yet) to drive "find similar".
+
+## 9. Update, 2026-11-27 (Black Friday session)
+Everything below is live in the artifact (version 33) and in this folder.
+
+**New tab: Buy list** (`#buy`). Five groups: Bought, Bringing from Irvine, Buy now ship to Irvine (Black Friday), Target run, Order now deliver to Long Beach in January. Each row is `li.bi[data-id][data-price]` with a Done checkbox persisted to the artifact db collection `buylist` and localStorage `sg2607-buylist`. Totals (spent / planned / still to order) are computed from `data-price` by group; the group is found by walking back to the previous `<h3>`. Export: `data/buylist.json` (52 rows).
+
+**Purchases so far** ($1,246): BenQ MA320U gray; Ninja PossibleCooker PRO; Quince European linen bedding bundle, Willowleaf, king; MagicLinen 2 natural gingham tea towels + 2 mocha waffle kitchen towels ($74); JazzUpCo Ava flatware, mirror gold, 20-pc ($179). All ship to a friend in Irvine. Bringing: BenQ MA320U, iMac, Switch 2, PS5 Pro, Catan.
+
+**Decisions since 11/16**
+- Den desk: Vernal L-shaped EXECUTIVE standing desk, deep walnut, 78.7 × 59, no modesty panel, $1,369.99, to be bought next year and shipped to the apartment. Return side (Right vs Left) decided on the visit: bedroom wall → Right, angled living-room wall → Left; both glare-free. Planner LDESK uses the Executive's pieces. (FlexiSpot E7L and Vernal Core3 are fallbacks.)
+- Bathroom: Dark Teal Blue Casaluna Organic bath + hand towels (Target); rug light (Casaluna Organic Melange Natural + pad) because the tour showed a dark navy vanity and greige tile; white/oat waffle curtain on the existing curved rod. Rule recorded: teal or olive in that room, never both; no matching accessory set.
+- Kitchen tableware: Our Place Main Plates/Bowls in the dusty pink with clay rim + amber stacking glasses (chosen, to order before 11/30); flatware bought (JazzUpCo mirror gold); towels bought (oat gingham + mocha waffle); Swedish dishcloths Hawkins NY Ivory/Flax $18 pending. Three-tier tableware list (Hasami + Sabre / East Fork + Hay / Our Place + Lenox) is in research/decisions-and-shopping.md.
+- Cookware: three pieces after move-in (12" Tramontina tri-ply fry pan, 10" Figmint nonstick, 3-qt saucepan), not a set. Cooktop fuel type still unconfirmed (smooth glass top in the tour).
+- Beach/pool towels: Slowtide DriftWeave × 2, Sand Cloud Reclaim 3-pack large (Buy list rows), Black Friday prices.
+- Target: Casaluna is Target's own brand. Nearest stores: Bixby Village 5760 E 7th St (small format), Long Beach Bellflower 2270 N Bellflower Blvd (full size). In-store stock unverified (Target blocks fetches).
+
+**Virtual tour** (`images/tour/`, `data/tour-frames.json`): the user recorded the Realync tour of 2607 off a monitor (IMG_0179.MOV, 202 s, in their Google Drive). 31 white-balanced stills in 9 rooms plus per-room sheets with dominant colors, and a bathroom board with teal towels composited onto the real still. Finishes are listed in research/move-in-and-building.md. Key facts: den and bedroom are carpeted; balcony door is at the foot end of the bedroom's angled glass wall and swings out; curved shower rod, no glass door; two-tone kitchen (greige uppers, charcoal lowers/island), white quartz, stainless Whirlpool; recessed lights in living/kitchen.
+
+**Planner changes**: bed moved 6" toward the closet in all layouts (cx 29.63 → 29.13) to clear the balcony door jamb; Jessica 26 × 15 nightstand replaces the 18" placeholder at (33.95, 3.15). All layouts verify 0 overlaps (`scripts/verify-page.js`).
+
+**Also in this folder**: `data/buylist.json`, `data/tour-frames.json`, `images/tour/*`, printable UN3481 lithium battery marks and FRAGILE labels were generated for shipping the PS5 (not stored here; regenerate from the chat if needed).
+
+**Still open**: lease PDF (TV mounting, delivery COI); whether bedroom/den have ceiling lights; induction vs radiant cooktop; Our Place order; Target in-store stock of the teal Casaluna towels; the desk Right/Left call after the visit.
