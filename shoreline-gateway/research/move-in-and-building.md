@@ -27,3 +27,11 @@
 | King mattress | 76 × 80 × ~12 | fits | fits on edge |
 | Two-piece sectionals | chaise piece ~86 long × 35–38 deep × 34–36 tall | fits | tilted on the 89" door diagonal |
 | 65"–75" TV boxed | ~70 × 43 × 9 | fits | fits on edge |
+
+## Finishes seen in the Realync virtual tour of 2607 (recorded off a monitor, 2026-11-27; stills in images/tour/)
+- Floors: warm medium wood-look plank (honey/walnut tone) in entry, kitchen, living and bathroom. Gray carpet in the den and the bedroom.
+- Kitchen: two-tone flat-slab cabinets, light greige uppers and dark charcoal/navy lowers and island; white quartz counters; white large-format tile backsplash; stainless Whirlpool appliances (fridge, dishwasher, OTR microwave, smooth glass-top electric range, pull-down faucet). Check the cooktop for an induction symbol before buying aluminum pans.
+- Living: floor-to-ceiling glass on two sides, white round structural column near the glass, dark window frames, recessed ceiling lights.
+- Bathroom: double-sink vanity in dark navy/charcoal slab fronts with white quartz top, two backlit LED mirrors, greige walls, greige large-format tile tub surround with niche, white tub, curved chrome shower rod (curtain, no glass door), built-in white open shelving next to the toilet, wood-look floor.
+- Bedroom: gray carpet, glass door to the balcony, reach-in closet with sliding doors, single rod and shelf. Laundry: stacked Whirlpool washer/dryer behind louvered bifold doors in the entry hall.
+- Tour segments (seconds): entry 4–28, laundry 29–34, kitchen 35–70, living 71–100, den 101–121, bathroom 122–148, bedroom 149–163, closet 164–172, balcony/view 173–201. Stills were white-balanced; colors are approximate.
