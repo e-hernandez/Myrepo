@@ -42,8 +42,8 @@ const PRESETS=[
 ];
 // default layout: bed on the head wall, pushed toward the window so the closet door clears
 const DEFAULT=[
- {n:'Jessica king platform bed (Coaster 202990KE)',k:'bed',w:88,d:88.75,h:43.25,c:'#e9e4d8',cx:29.63,cy:6.25,r:0},
- {n:'Nightstand 18"',k:'storage',w:18,d:18,h:24,c:'#b89b7a',cx:34.2,cy:3.35,r:0},
+ {n:'Jessica king platform bed (Coaster 202990KE)',k:'bed',w:88,d:88.75,h:43.25,c:'#e9e4d8',cx:29.13,cy:6.25,r:0},
+ {n:'Jessica nightstand 26×15',k:'storage',w:26,d:15,h:23,c:'#e9e4d8',cx:33.95,cy:3.15,r:0},
  {n:'FlexiSpot E7 72"x30"',k:'desk',w:72,d:30,h:29,c:'#d9c7a0',cx:28.4,cy:15.35,r:0},
  {n:'Secretlab TITAN Evo chair',k:'chair',w:27,d:27,h:51,c:'#f2f2f0',cx:28.3,cy:18.1,r:0},
  {n:'Sofa 90"',k:'sofa',w:90,d:38,h:33,c:'#6f8a99',cx:18.5,cy:27.0,r:0},
@@ -62,7 +62,7 @@ function snapDen(it,shift){const nx=-Math.sin(DENA),ny=Math.cos(DENA),tx=Math.co
 function inFront(base,dist){const nx=-Math.sin(DENA),ny=Math.cos(DENA);return {cx:Math.round((base.cx+nx*dist)*12)/12,cy:Math.round((base.cy+ny*dist)*12)/12};}
 const WALLSOFA=[
  DEFAULT[0],
- {n:'Nightstand 18"',k:'storage',w:18,d:18,h:24,c:'#b89b7a',cx:34.2,cy:3.35,r:0},
+ {n:'Jessica nightstand 26×15',k:'storage',w:26,d:15,h:23,c:'#e9e4d8',cx:33.95,cy:3.15,r:0},
  {n:'FlexiSpot E7 72"x30"',k:'desk',w:72,d:30,h:29,c:'#d9c7a0',cx:28.4,cy:15.35,r:0},
  {n:'Secretlab TITAN Evo chair',k:'chair',w:27,d:27,h:51,c:'#f2f2f0',cx:28.3,cy:18.1,r:0},
  {n:'Modern Neutral Chenille Sectional (Gray or Black)',k:'sectional',w:119.25,d:79.5,h:35.5,c:'#8f8f8a',cx:24.5,cy:24.8,r:14},
