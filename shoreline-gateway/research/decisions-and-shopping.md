@@ -29,3 +29,4 @@ Prices checked 2026-11-16; they drift.
 - Ceiling height and window sill height (not on the plan).
 - Passport shuttle days/hours, LBT airport route numbers, Vons pharmacy hours, Bixby Park farmers market day (neighborhood tab "Verify" tags).
 - Which Matterport tour on the building's virtual-tours page is the A7 (Matterport blocks automated access).
+- Third Black Friday purchase identified: Quince 100% European Linen Deluxe Bedding Bundle, Willowleaf, King, order #52796296, $300 after code + $23.25 tax, delivery Dec 5–8 to Irvine. Quince sells no Willowleaf towels (nearest: Sage); recommendation recorded in the Buy list tab: white/oat towels + sage bath mat.
