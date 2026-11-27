@@ -33,6 +33,8 @@ const PRESETS=[
  {n:'FlexiSpot E7 72"x30"',k:'desk',w:72,d:30,h:29,c:'#d9c7a0'},
  {n:'Standing desk 80"x30"',k:'desk',w:80,d:30,h:29,c:'#d9c7a0'},
  {n:'Standing desk 96"x30"',k:'desk',w:96,d:30,h:29,c:'#d9c7a0'},
+ {n:'Vernal Core3 L-desk main run 79"x27.5"',k:'desk',w:79,d:27.5,h:29,c:'#f2f2f0'},
+ {n:'Vernal Core3 L-desk return 59"x27.5"',k:'desk',w:27.5,d:59,h:29,c:'#f2f2f0'},
  {n:'FlexiSpot E7L main run 76"x24"',k:'desk',w:76,d:24,h:29,c:'#f2f2f0'},
  {n:'FlexiSpot E7L return 55"x28"',k:'desk',w:28,d:55,h:29,c:'#f2f2f0'},
  {n:'FlexiSpot E7 Pro 60"x30"',k:'desk',w:60,d:30,h:29,c:'#d9c7a0'},
@@ -86,9 +88,9 @@ const VIEWDESK=DEFAULT.map(x=>Object.assign({},x));
 VIEWDESK[2]={n:'FlexiSpot E7 72"x30" (facing the glass)',k:'desk',w:72,d:30,h:29,c:'#d9c7a0',cx:28.98,cy:18.0,r:117};
 VIEWDESK[3]={n:'Secretlab TITAN Evo chair',k:'chair',w:27,d:27,h:51,c:'#f2f2f0',cx:26.57,cy:16.77,r:117};
 const LDESK=DEFAULT.map(x=>Object.assign({},x));
-LDESK[2]={n:'FlexiSpot E7L main run 76"x24"',k:'desk',w:76,d:24,h:29,c:'#f2f2f0',cx:26.83,cy:14.85,r:0};
-LDESK[3]={n:'Secretlab TITAN Evo chair',k:'chair',w:27,d:27,h:51,c:'#f2f2f0',cx:25.9,cy:17.45,r:0};
-LDESK.splice(4,0,{n:'FlexiSpot E7L return 55"x28" (laptops)',k:'desk',w:28,d:55,h:29,c:'#f2f2f0',cx:28.83,cy:16.14,r:0});
+LDESK[2]={n:'Vernal Core3 L-desk main run 79"x27.5"',k:'desk',w:79,d:27.5,h:29,c:'#f2f2f0',cx:26.41,cy:15.0,r:0};
+LDESK[3]={n:'Secretlab TITAN Evo chair',k:'chair',w:27,d:27,h:51,c:'#f2f2f0',cx:25.81,cy:17.54,r:0};
+LDESK.splice(4,0,{n:'Vernal Core3 L-desk return 59"x27.5" (laptops)',k:'desk',w:27.5,d:59,h:29,c:'#f2f2f0',cx:28.55,cy:16.31,r:0});
 const BEDONLY=[DEFAULT[0]];
 let items=[], sel=-1;
 const KEY='sg2607-layout-v1';
